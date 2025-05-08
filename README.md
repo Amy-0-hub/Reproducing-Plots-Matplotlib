@@ -14,12 +14,13 @@ The visualization shows a facted view from the following data sets. These files 
 1. numpy
 2. pandas
 3. Matplotlib
+4. Streamlit 
 
 
 ## Deployment
 This project is deployed via [Render](https://render.com/).
 
 ```bash  
-git clone https://github.com/Amy-0-hub/Reproducing_Charts_Matplotlib.git
-cd Reproducing-Charts-Matplotlib
+git clone https://github.com/Amy-0-hub/Reproducing_Plots_Matplotlib.git
+cd Reproducing-Plots-Matplotlib
 pip install -r requirements.txt
